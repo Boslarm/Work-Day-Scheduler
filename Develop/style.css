@@ -76,4 +76,6 @@ body {
     background-color: grey;
     border-top-left-radius: 15px;
     border-bottom-left-radius: 15px;
+    font-variant: petite-caps;
+    vertical-align: middle; !important
   }
